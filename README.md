@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Marina
 
-### I’m a Molecular Oncologist and Beginner Data Analyst
+### Molecular Oncology | Data Viz | Data Analysis | Bioinformatics
 
 - :microscope: Currently working on my Final Project about an App for creating :boom:
 :collision: Stories
