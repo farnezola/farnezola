@@ -1,11 +1,10 @@
 ### Hi there 👋, I’m Marina
 
-### Molecular Oncology | Data Viz | Data Analysis | Bioinformatics
+### Oncoimmunology | Data Viz | Data Analysis | Bioinformatics
 
-- :microscope: Currently working on my Final Project about an App for creating :boom:
-:collision: Stories
+- :microscope: Currently working on TCR Repertoire Analysis
 - :mortar_board: Learning :snake:, SQL,  Statistics and Tableau
-- :house_with_garden: Building a House
+- :house_with_garden: Built a House
 - :evergreen_tree: Gardening Maniac
 - :metal: Listening to Rock
 - :cat2: Owned by a cat
