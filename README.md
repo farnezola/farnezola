@@ -7,4 +7,4 @@
 - :house_with_garden: Built a House
 - :evergreen_tree: Gardening Maniac
 - :metal: Listening to Rock
-- :cat2: Owned by a cat
+- :cat2: 🐕: Owned by a cat and a dog
